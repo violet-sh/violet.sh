@@ -19,6 +19,6 @@
     "bootstrap": "^5.3.8",
     "cssnano": "^8.0.5",
     "sass": "^1.102.0",
-    "typescript": "^7.0.2"
+    "typescript": "^6.0.3"
   }
 }
